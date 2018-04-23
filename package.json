@@ -1,0 +1,16 @@
+{
+  "name": "nuxt7-app-router-options",
+  "version": "1.0.0",
+  "description": "My PWA App",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt7": "latest",
+    "nuxt": "^1.1.1"
+  }
+}
