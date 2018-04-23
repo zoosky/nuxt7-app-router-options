@@ -1,5 +1,7 @@
 # nuxt7-app-router-options
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zoosky/nuxt7-app-router-options.svg)](https://greenkeeper.io/)
+
 > My PWA App
 
 ## Build Setup
